@@ -1,6 +1,6 @@
 {
   "name": "how-to-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Creates package.json",
   "main": "index.js",
   "scripts": {
